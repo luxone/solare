@@ -1,0 +1,119 @@
+h1 {
+	text-align: center;
+	margin: auto;
+	width: 45%;
+	border: 3px solid #73AD21;
+	padding: 10px;
+}
+
+.data{
+	text-align: center;
+	margin: auto;
+	width: 60%;
+	padding: 10px;
+	font-size: 30px;
+}
+
+input[type=datetime-local] {
+	margin-top: 20px;
+	box-sizing: border-box;
+	border: 2px solid #ccc;
+	border-radius: 4px;
+	font-size: 20px;
+	background-color: #92a8d1;
+	padding: 12px 20px 12px 40px;
+}
+
+input[type=radio] {
+	accent-color: green;
+}
+
+.gr1:checked+.labgr1 {
+    color: red;
+    }
+.labgr1 {
+    color: green;
+    }
+	
+.gr2:checked+.labgr2 {
+    color: red;
+    }
+.labgr2 {
+    color: green;
+    }
+	
+.gr3:checked+.labgr3 {
+    color: red;
+    }
+.labgr3 {
+    color: green;
+    }
+	
+.gr4:checked+.labgr4 {
+    color: red;
+    }
+.labgr4 {
+    color: green;
+    }
+	
+.gr5:checked+.labgr5 {
+    color: red;
+    }
+.labgr5 {
+    color: green;
+    }
+	
+.gr6:checked+.labgr6 {
+    color: red;
+    }
+.labgr6 {
+    color: green;
+    }
+	
+.gr7:checked+.labgr7 {
+    color: red;
+    }
+.labgr7 {
+    color: green;
+    }	
+
+.gr8:checked+.labgr8 {
+    color: red;
+    }
+.labgr8 {
+    color: green;
+    }
+
+
+
+.radioBut{
+	text-align: left;
+}
+
+
+.onOff{
+	font-size: 15px;
+}
+
+.butReq{
+	margin-top: 50px;
+    background-color: #0a0a23;
+    color: #fff;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0px 0px 2px 2px rgb(0,0,0);
+	font-size: 30px;
+	height: 100px; 
+	width: 200px; 
+}
+
+.butReq:hover {
+      background-color: #92a8d1;
+      transition: 0.2s;
+  }
+
+.maxlight{
+	margin-top: 100px;
+	font-size: 30px;
+	text-align: center;
+}
